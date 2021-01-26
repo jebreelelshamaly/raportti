@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Raportti</h1>
+<p>Latasin debian live 10.7.0-amd64-xfce-nonfree.iso sivustolta jonne ohjasit meidät viime tunnilla. 
+    Linkki: https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/10.7.0-live+nonfree/amd64/iso-hybrid/ 
+    Klikkaan tiedostoa ja minun mac valittaa, että levytiedostoa ei voi avata,
+    syy: ei kelvollisia tiedostojärjestelmiä. Googletin syitä ja netissä ei löydy järkeviä selityksiä paitsi että koneessa ei riitä teho, jota epäilen tai, rikkinäinen lataus. 
+    Latasin tiedoston uudelleen samalta sivulta, mutta ei siltikään toimi.
+    Siirryin eteenpäin, koska halusin yrittää edetä edes jossain. Yritin asentaa OracleVMVirtualBoxia koneelle, mutta sekään ei onnistunut. Latasin sen sivulta:
+    https://terokarvinen.com/2021/install-debian-on-virtualbox/.
+    Kone herjaa "Pyydä apua ohjelman valmistajalta." Sitäkin, kun yrittää googlettaa niin tulee vaan jtn ohjeita midi-asetusten testaamiseen ja ohjeita androidiin.
+    Ei siis hyödytä. Avasin Citrixin ja yritin sinne workspaceen asentaa VM asennus etenee, mutta tulee HHadmin vastaan ja pyytää salasanaa, jota minulla ei tietenkään ole.
+    Eli siis en pysty edetä siinäkään. Tarvitsen ohjausta ja pahoittelen, koska tuntuu siltä etten ole jotain asiaa ymmärtänyt oikein, mutta yritän tosissaan vääntää.
+    </div><main</main>
+
+
+
+     </p>
+
+</body>
+</html>
